@@ -1,0 +1,19 @@
+{
+  "name": "immichtojellyfin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "node --watch index.js"
+  },
+  "author": "Daniel Ward",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "fs-extra": "^11.3.0",
+    "path": "^0.12.7",
+    "progress": "^2.0.3"
+  }
+}
